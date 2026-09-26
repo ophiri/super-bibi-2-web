@@ -1,0 +1,6 @@
+result=Succeeded
+productName=Super Bibi 2
+version=8.0
+unity=2022.3.62f1
+compression=disabled
+output=C:\Users\ophir\Documents\super_bibi_2\Builds\WebGL
